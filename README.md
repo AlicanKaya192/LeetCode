@@ -25,12 +25,7 @@ Amacım:
 
 1. İlgili klasöre girin.  
 2. Çözüm dosyasını inceleyin.  
-3. Çözümler **Python** diliyle yazılmıştır.  
-
-```bash
-# Örnek çalıştırma
-python solution.py
-```
+3. Çözümler şuanlık **C#** diliyle yazılmıştır.  
 
 ---
 
