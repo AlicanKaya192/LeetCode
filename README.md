@@ -25,7 +25,6 @@ Amacım:
 
 1. İlgili klasöre girin.  
 2. Çözüm dosyasını inceleyin.  
-3. Çözümler şuanlık **C#** diliyle yazılmıştır.  
 
 ---
 
